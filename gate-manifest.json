@@ -1,0 +1,31 @@
+{
+  "label": "meridian-oxygen-staging",
+  "required_pages": ["index","technology","why-on-site","systems","about","faq","contact"],
+  "hero_question": true,
+  "nav_order": ["home","about","{services}","faq","contact"],
+  "lead_form": true,
+  "faq_page": {"sections": ["general","technology","why-on-site","systems","buying"], "min_per_section": 5},
+  "seo_completeness": true,
+  "hero_anatomy": true,
+  "no_letter_markers": true,
+  "image_uniqueness": {"max_per_page": 2},
+  "star_glyph_honesty": true,
+  "forbidden_terms": ["veterinary","animal hospital","airnetic.us","FDA cleared","FDA approved","NFPA 99 compliant","hospital certified","replace your bulk","not really scalable","scalable"],
+  "logo": "generated",
+  "logo_wordmark_text": "MERIDIAN",
+  "cdn": "fonts-only",
+  "no_em_dashes": true,
+  "compliance": {"not_medical_advice": true, "no_treat_cure_prevent": true},
+  "keywords": {"file": "inputs/keywords.xlsx", "top_headline": 10, "top_required": 100},
+  "contact": {"socials": {}, "hours": false},
+  "functional": {
+    "scroll_effects_page": "index",
+    "counter_selector": "[data-count]",
+    "reveal_selector": ".reveal",
+    "reduced_motion_page": "index",
+    "mobile_overflow": "all",
+    "calculator": {"page": "why-on-site", "inputs": {"cyl-month": 40, "cyl-price": 35}, "expect": {"r-annual": "16,800"}},
+    "header_geometry": {"page": "index", "gutter": 24},
+    "logo_rendered_height": {"page": "index", "min_frac": 0.5, "min_density": 2}
+  }
+}

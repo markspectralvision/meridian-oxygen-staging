@@ -1,0 +1,602 @@
+[
+ {
+  "term": "oxygen concentrator",
+  "count": 54,
+  "relevant": true
+ },
+ {
+  "term": "oxygen therapy",
+  "count": 51,
+  "relevant": true
+ },
+ {
+  "term": "oxygen cylinder",
+  "count": 46,
+  "relevant": true
+ },
+ {
+  "term": "portable oxygen generator",
+  "count": 42,
+  "relevant": true
+ },
+ {
+  "term": "hospital infrastructure",
+  "count": 41,
+  "relevant": false
+ },
+ {
+  "term": "respiratory support",
+  "count": 34,
+  "relevant": false
+ },
+ {
+  "term": "oxygen purity",
+  "count": 31,
+  "relevant": true
+ },
+ {
+  "term": "oxygen production",
+  "count": 30,
+  "relevant": true
+ },
+ {
+  "term": "medical oxygen",
+  "count": 29,
+  "relevant": true
+ },
+ {
+  "term": "oxygen plant",
+  "count": 29,
+  "relevant": true
+ },
+ {
+  "term": "oxygen demand",
+  "count": 29,
+  "relevant": true
+ },
+ {
+  "term": "oxygen storage",
+  "count": 28,
+  "relevant": true
+ },
+ {
+  "term": "hospital equipment",
+  "count": 27,
+  "relevant": false
+ },
+ {
+  "term": "oxygen pipeline",
+  "count": 27,
+  "relevant": true
+ },
+ {
+  "term": "oxygen supply",
+  "count": 26,
+  "relevant": true
+ },
+ {
+  "term": "emergency oxygen supply",
+  "count": 25,
+  "relevant": true
+ },
+ {
+  "term": "oxygen mask",
+  "count": 24,
+  "relevant": true
+ },
+ {
+  "term": "oxygen delivery system",
+  "count": 24,
+  "relevant": true
+ },
+ {
+  "term": "oxygen flow meter",
+  "count": 23,
+  "relevant": true
+ },
+ {
+  "term": "oxygen saturation",
+  "count": 21,
+  "relevant": true
+ },
+ {
+  "term": "ventilator",
+  "count": 21,
+  "relevant": false
+ },
+ {
+  "term": "psa oxygen generator",
+  "count": 19,
+  "relevant": true
+ },
+ {
+  "term": "intensive care unit",
+  "count": 19,
+  "relevant": true
+ },
+ {
+  "term": "medical oxygen supply",
+  "count": 18,
+  "relevant": true
+ },
+ {
+  "term": "oxygen supply chain",
+  "count": 16,
+  "relevant": true
+ },
+ {
+  "term": "oxygen delivery systems",
+  "count": 16,
+  "relevant": true
+ },
+ {
+  "term": "oxygen compressor",
+  "count": 14,
+  "relevant": true
+ },
+ {
+  "term": "oxygen tank",
+  "count": 14,
+  "relevant": true
+ },
+ {
+  "term": "icu equipment",
+  "count": 13,
+  "relevant": false
+ },
+ {
+  "term": "oxygen generator maintenance",
+  "count": 13,
+  "relevant": true
+ },
+ {
+  "term": "oxygen supply system",
+  "count": 13,
+  "relevant": true
+ },
+ {
+  "term": "healthcare facility",
+  "count": 12,
+  "relevant": false
+ },
+ {
+  "term": "patient care",
+  "count": 12,
+  "relevant": true
+ },
+ {
+  "term": "industrial oxygen generator",
+  "count": 11,
+  "relevant": true
+ },
+ {
+  "term": "oxygen storage tank",
+  "count": 11,
+  "relevant": true
+ },
+ {
+  "term": "oxygen regulator",
+  "count": 11,
+  "relevant": true
+ },
+ {
+  "term": "healthcare facilities",
+  "count": 11,
+  "relevant": false
+ },
+ {
+  "term": "emergency oxygen",
+  "count": 10,
+  "relevant": true
+ },
+ {
+  "term": "oxygen sensor",
+  "count": 10,
+  "relevant": true
+ },
+ {
+  "term": "oxygen flow rate",
+  "count": 10,
+  "relevant": true
+ },
+ {
+  "term": "pressure swing adsorption",
+  "count": 9,
+  "relevant": false
+ },
+ {
+  "term": "oxygen generator installation",
+  "count": 9,
+  "relevant": true
+ },
+ {
+  "term": "air separation unit",
+  "count": 9,
+  "relevant": false
+ },
+ {
+  "term": "oxygen generator efficiency",
+  "count": 8,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generation system",
+  "count": 7,
+  "relevant": true
+ },
+ {
+  "term": "oxygen storage tanks",
+  "count": 7,
+  "relevant": true
+ },
+ {
+  "term": "oxygen therapy equipment",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "oxygen distribution",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "oxygen safety",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "oxygen monitoring",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "oxygen humidifier",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "respiratory support equipment",
+  "count": 6,
+  "relevant": false
+ },
+ {
+  "term": "critical care equipment",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "oxygen flow meters",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "oxygen safety standards",
+  "count": 6,
+  "relevant": true
+ },
+ {
+  "term": "hospital maintenance",
+  "count": 6,
+  "relevant": false
+ },
+ {
+  "term": "portable oxygen",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "oxygen saturation monitor",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "compressed oxygen",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "emergency medical services",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "oxygen purity analyzer",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "hospital ventilation systems",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "oxygen saturation monitoring",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "hospital oxygen system",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "hospital ventilation",
+  "count": 5,
+  "relevant": false
+ },
+ {
+  "term": "critical care",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "oxygen tanks",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "oxygen distribution network",
+  "count": 5,
+  "relevant": true
+ },
+ {
+  "term": "oxygen delivery",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generation capacity",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generator manufacturers",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen purity levels",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "on-site oxygen generation",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen production technology",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "liquid oxygen storage",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "healthcare infrastructure",
+  "count": 4,
+  "relevant": false
+ },
+ {
+  "term": "emergency response",
+  "count": 4,
+  "relevant": false
+ },
+ {
+  "term": "hospital oxygen concentrator",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen backup systems",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generation technology",
+  "count": 4,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generator cost",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generator technology",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "hospital safety protocols",
+  "count": 3,
+  "relevant": false
+ },
+ {
+  "term": "oxygen pipeline systems",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "medical gas pipeline",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "critical care units",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen monitoring systems",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "psa technology",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen production unit",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "cryogenic oxygen plant",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen distribution system",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen sensors",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "medical equipment",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen flowmeter",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen monitoring system",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen cylinders",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "central oxygen supply",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "respiratory therapy equipment",
+  "count": 3,
+  "relevant": false
+ },
+ {
+  "term": "respiratory care",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "liquid oxygen",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen backup system",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen production plant",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "central oxygen system",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "oxygen system maintenance",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "respiratory equipment",
+  "count": 3,
+  "relevant": false
+ },
+ {
+  "term": "covid-19 response",
+  "count": 3,
+  "relevant": false
+ },
+ {
+  "term": "oxygen purity standards",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "medical device regulations",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "hospital safety",
+  "count": 3,
+  "relevant": false
+ },
+ {
+  "term": "hospital procurement",
+  "count": 3,
+  "relevant": false
+ },
+ {
+  "term": "oxygen safety protocols",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "medical oxygen generator",
+  "count": 3,
+  "relevant": true
+ },
+ {
+  "term": "cryogenic oxygen generator",
+  "count": 2,
+  "relevant": true
+ },
+ {
+  "term": "oxygen generator safety",
+  "count": 2,
+  "relevant": true
+ },
+ {
+  "term": "respiratory care equipment",
+  "count": 2,
+  "relevant": true
+ },
+ {
+  "term": "oxygen demand management",
+  "count": 2,
+  "relevant": true
+ },
+ {
+  "term": "icu facilities",
+  "count": 2,
+  "relevant": false
+ },
+ {
+  "term": "emergency care",
+  "count": 2,
+  "relevant": true
+ },
+ {
+  "term": "oxygen manifold",
+  "count": 2,
+  "relevant": true
+ },
+ {
+  "term": "patient safety",
+  "count": 2,
+  "relevant": false
+ }
+]

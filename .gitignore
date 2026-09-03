@@ -1,0 +1,5 @@
+qc_*.png
+qc2_*.png
+inputs/airnetic/*.html
+src/
+build.py
